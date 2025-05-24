@@ -46,9 +46,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ikalmalik&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ________________________________________________________________________________________________________________________________________________________
-**Abd. Malik A Madinu**
-<br /> Department of Geophysics and Meteorology, Faculty of Mathematics and Natural Science, IPB University
-<br /> SSRS Fellow RO11 Dynamic Climate Research Group, IPB Sustainable Science Research Students Association (IPB SSRS Association), IPB University
-<br /> SSRS Indonesia Tropic Ecological Observatory, SSRS Group
-<br /> malikzone314@gmail.com   abd.malik@apps.ipb.ac.id
-<br /> [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Malikzone314@gmail.com)
+**Usnil Khotimah**
+<br /> Department of Plant Protection, Faculty of Agriculture, IPB University, Indonesia
+<br /> SSRS RO2 Mangrove Research Group, IPB Sustainable Science Research Students Association (IPB SSRS Association), IPB University
+<br /> SSRS Institute, SSRS Group
+<br /> usnilkhotimah9@gmail.com   usnil@apps.ipb.ac.id
+<br /> [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:usnilkhotimah9@gmail.com)
