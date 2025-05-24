@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-UsnilKhotimah-darkgrey?style=social&logo=github&logoColor=black)](https://github.com/UsnilKhotimah)   [![My Instagram](https://img.shields.io/badge/My-Instagram-DD2A7B?style=flat&logo=instagram&logoColor=DD2A7B&labelColor=444444)](https://instagram.com/hsnilkh)  [![My X](https://img.shields.io/badge/My-X-000000?style=flat&logo=twitter&logoColor=white&labelColor=444444)](https://x.com/14Husnil)   [![My LinkedIn](https://img.shields.io/badge/My-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=444444)](https://linkedin.com/in/usnil)   [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Usnil-Khotimah/publications)   [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-8710-2901)   [![RPubs](https://img.shields.io/badge/RPubs-276DC3?style=flat&logo=r&logoColor=white)](https://rpubs.com/usnilkhotimah24)   
 
 
-# *Researcher*
+# *Interested*
 **`Division`**
 <br /> Analyst Data, Species Distribution Modelling, Remote Sensing and Geospatial Intelligence  
 
@@ -15,7 +15,7 @@
 <br /> I am an undergraduate student in the Plant Protection Study Program, IPB University. And senior researcher at The IPB SSRS Association (Student Researcher Organization at IPB University).
 
 
-### 💻 Interested and Skills in Progress
+### 💻 Skills in Progress
 <br /> ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=r&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=rstudioide&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFD700)
@@ -29,7 +29,7 @@
 - S Tyas, WM Wicaksono, **U Khotimah**, A Dzulfigar, KP Marfi, M Ferdiansyah, R Asy'Ari, R Pramulya, NP Zamani, Y Setiawan. 2024. AgriForScape Model: Optimization of Agricultural Landscape Design in Kawarang District as a Pest Control Strategy with an Ecological Approach. *CELEBES Agriculture*. 4(2):119-139. [http://dx.doi.org/10.52045/jca.v4i2.710](http://dx.doi.org/10.52045/jca.v4i2.710)
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Statistic:
 ![](https://github-readme-stats.vercel.app/api?username=UsnilKhotimah&theme=shadow_pink&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=UsnilKhotimah&theme=shadow_pink&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UsnilKhotimah&theme=shadow_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
